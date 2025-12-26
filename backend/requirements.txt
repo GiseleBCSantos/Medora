@@ -1,0 +1,21 @@
+# Core
+Django>=4.2,<5.0
+djangorestframework>=3.14
+
+# Authentication
+djangorestframework-simplejwt>=5.3
+
+# Environment variables
+python-dotenv>=1.0
+
+# Database
+psycopg2-binary>=2.9
+
+# Utilities
+django-filter>=23.3
+
+# CORS (frontend integration)
+django-cors-headers>=4.3
+
+# Static files (production)
+whitenoise>=6.6
